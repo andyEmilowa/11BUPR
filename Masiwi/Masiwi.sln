@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masiwi", "Masiwi\Masiwi.csproj", "{DECB48B7-C81A-4714-A96D-C92E166321A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad2", "Zad2\Zad2.csproj", "{10E2A842-3DB5-43A1-9363-0610F7BBEF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DECB48B7-C81A-4714-A96D-C92E166321A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECB48B7-C81A-4714-A96D-C92E166321A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECB48B7-C81A-4714-A96D-C92E166321A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECB48B7-C81A-4714-A96D-C92E166321A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10E2A842-3DB5-43A1-9363-0610F7BBEF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10E2A842-3DB5-43A1-9363-0610F7BBEF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10E2A842-3DB5-43A1-9363-0610F7BBEF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10E2A842-3DB5-43A1-9363-0610F7BBEF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0033FCC8-36F7-4CAB-9911-20F6B764F91A}
+	EndGlobalSection
+EndGlobal
