@@ -23,7 +23,7 @@ namespace zad_5
                             break;
 
                         case "addMany":
-
+                            3
                             break;
 
                         case "contains":
