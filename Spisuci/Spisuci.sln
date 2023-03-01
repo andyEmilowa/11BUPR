@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zad 3", "Zad 3\Zad 3.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zad 5", "zad 4\zad 5.csproj", "{8CFBDE19-8205-423C-92E4-C2DE419F68A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad 4.1", "Zad 4.1\Zad 4.1.csproj", "{7830CE5C-BC24-463A-B347-CD2A1BAC20DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zad 4.1", "Zad 4.1\Zad 4.1.csproj", "{7830CE5C-BC24-463A-B347-CD2A1BAC20DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad6", "Zad6\Zad6.csproj", "{DDE04BD6-5B25-4273-8B27-815768A420CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{7830CE5C-BC24-463A-B347-CD2A1BAC20DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7830CE5C-BC24-463A-B347-CD2A1BAC20DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7830CE5C-BC24-463A-B347-CD2A1BAC20DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDE04BD6-5B25-4273-8B27-815768A420CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE04BD6-5B25-4273-8B27-815768A420CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE04BD6-5B25-4273-8B27-815768A420CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE04BD6-5B25-4273-8B27-815768A420CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
